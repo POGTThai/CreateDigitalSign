@@ -1,0 +1,14 @@
+MasterPDF=--master path--
+DestinationPDF=--destination path---
+LogfilePath=--log path---
+ErrorPath=--Error path---
+CertificatePath=-- Certificate path--
+MovefileTo=--Move file to path---
+CertificatePassword=--- cert password---
+Imagepath=--image for certificate path---
+ImageVisible=-- visible image on certificate (Y is visible)
+DigitalVisible=-- visible certificate on pdf (Y is visible)
+DigitalSignReason=-- Reason on certificate --
+DigitalSignLocation=-- Location on certificate --
+DigitalPosition=-- certificate position (275 , 750, 375, 790)--
+Realtime=-- Set program realtime (looping) --

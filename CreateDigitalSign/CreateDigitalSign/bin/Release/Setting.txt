@@ -1,0 +1,12 @@
+MasterPDF=C:\Users\POGTT\Desktop\TVI
+DestinationPDF=C:\Users\POGTT\Desktop\TVI\Digital
+LogfilePath=C:\Users\POGTT\Desktop\TVI\log
+CertificatePath=C:\D_Drive\SourceCode\Digital_Sign_on_PDF_Program\mmctvi.pfx
+CertificatePassword=123456789
+Imagepath=C:\D_Drive\SourceCode\Digital_Sign_on_PDF_Program\TVI.png
+ImageVisible=N
+DigitalVisible=Y
+DigitalSignReason=Test
+DigitalSignLocation=TVILocation
+DigitalPosition=275 , 750, 375, 790
+Realtime=Y
